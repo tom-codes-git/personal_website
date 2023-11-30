@@ -1,16 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Abel&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
 
-.font {
+
+/* .font  */ {
   font-family: "Abel", sans-serif; /* Text */
   font-family: "Chakra Petch", sans-serif; /* HEADER */
 }
 
-.colorpattern {
+/* .colorpattern */ {
   color: rgb(240, 227, 202); /* texthintergrund */
   color: rgb(255, 131, 3); /* active */
   color: rgb(163, 87, 9); /* inactive */
   color: rgb(27, 26, 23); /* background */
 }
+
+
 
 body {
   color: white;
